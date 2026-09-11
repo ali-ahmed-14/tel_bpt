@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events
 
 # إعدادات الحساب
-api_id = "24781147"  # أدخل API ID الخاص بك
-api_hash = "abd183b2294312c52ef1fd1ac38b9b22"  # أدخل API Hash الخاص بك
+api_id = ""  # أدخل API ID الخاص بك
+api_hash = ""  # أدخل API Hash الخاص بك
 
 # القنوات
 source_channel = "t.me/almasirah2"  # اسم مستخدم القناة العامة
