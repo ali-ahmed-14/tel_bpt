@@ -1,8 +1,8 @@
 import asyncio
 from telethon import TelegramClient, events
 
-api_id = 24137179
-api_hash = "1c0a5a968a4d8ca6aac4537543197fd8"
+api_id = 
+api_hash = ""
 
 # القنوات
 source_channel = "almasirah2"  # يمكنك استخدام @username بدون t.me
